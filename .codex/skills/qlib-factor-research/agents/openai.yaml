@@ -1,0 +1,7 @@
+interface:
+  display_name: "Qlib Factor Research"
+  short_description: "Disciplined Qlib alpha research"
+  default_prompt: "Use $qlib-factor-research to research, implement, validate, and report a Qlib-based alpha factor in this fork."
+
+policy:
+  allow_implicit_invocation: true

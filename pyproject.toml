@@ -113,6 +113,12 @@ client = [
 [tool.setuptools]
 packages = [
   "qlib",
+  "alpha_lab",
+  "alpha_lab.data_sources",
+  "alpha_lab.earnings",
+  "alpha_lab.models",
+  "alpha_lab.reports",
+  "alpha_lab.strategies",
 ]
 license-files = []
 

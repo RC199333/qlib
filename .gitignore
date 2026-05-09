@@ -15,6 +15,9 @@ dist/
 *.csv
 
 .env
+.venv/
+.tmp/
+data/alpha_lab/
 .vim
 .nvimrc
 .vscode
